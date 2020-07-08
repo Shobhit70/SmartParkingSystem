@@ -1,0 +1,20 @@
+Prerequsites:
+Python(3.7.3)
+
+Packages/Dependency:
+1: Numpy(1.16.2)
+2. Pandas(0.24.2)
+3. Tensorflow(1.14.0)
+4. Keras(2.2.4)
+5. OpenCV(4.1.0.25)
+6. Pickle(1.0.2)
+7. Pillow(5.4.1)
+8. import_ipynb(0.1.3)
+9. sklearn(0.0)
+10.webcolors(0.10.0)
+11.azure custom vision API
+
+
+Tools
+1. Jupyter Notebook
+
