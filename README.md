@@ -11,4 +11,6 @@ The model should take an image as input and return all detected parking slots in
 <li>First two should represent the centre coordinates cx, cy of the detected parking slot
 <li>Third value should represent the vehicle occupancy v in the parking slot. It should be 1 if the vehicle is present in the parking slot and 0 otherwise.
 <li>Fourth value should represent the color_code c (0-8 values for White-0, Silver-1, Black-2, Grey-3, Blue-4, Red-5, Brown-6, Green-7, Others-8)
-<li>Fifth value should represent the pose p (0 for front facing i.e front of the car is looking at the camera, 1 for back, back of the car is looking at the camera )
+<li>Fifth value should represent the pose p (0 for front facing i.e front of the car is looking at the camera, 1 for back, back of the car is looking at the camera)
+
+<img src="https://github.com/Shobhit70/SmartParkingSystem/blob/master/test.jpg" width="500", height="500">
