@@ -14,3 +14,7 @@ The model should take an image as input and return all detected parking slots in
 <li>Fifth value should represent the pose p (0 for front facing i.e front of the car is looking at the camera, 1 for back, back of the car is looking at the camera)
 </br>
 <img src="https://github.com/Shobhit70/SmartParkingSystem/blob/master/test.jpg" width="800", height="800">
+</br>
+<img src="https://github.com/Shobhit70/SmartParkingSystem/blob/master/result.png" width="800", height="800">
+
+
